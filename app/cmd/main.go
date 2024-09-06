@@ -1,5 +1,7 @@
 package main
 
+// Версия 0.1.1 от 06.09.2024
+
 import (
 	"github.com/Mooonsheen/lamoda_tech/app/internal/server"
 	"github.com/Mooonsheen/lamoda_tech/app/internal/server/config"
