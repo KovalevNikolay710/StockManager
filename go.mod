@@ -1,4 +1,4 @@
-module github.com/Mooonsheen/lamoda_tech
+module github.com/Mooonsheen/dc
 
 go 1.22.1
 

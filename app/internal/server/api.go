@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Mooonsheen/lamoda_tech/app/internal/models"
-	"github.com/Mooonsheen/lamoda_tech/app/internal/utils"
+	"github.com/Mooonsheen/dc/app/internal/models"
+	"github.com/Mooonsheen/dc/app/internal/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/google/jsonapi"
 )

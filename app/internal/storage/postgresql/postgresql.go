@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Mooonsheen/lamoda_tech/app/internal/models"
-	"github.com/Mooonsheen/lamoda_tech/app/internal/storage/interfaces"
+	"github.com/Mooonsheen/dc/app/internal/models"
+	"github.com/Mooonsheen/dc/app/internal/storage/interfaces"
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/pgxpool"
 )

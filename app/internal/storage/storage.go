@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	configdb "github.com/Mooonsheen/lamoda_tech/app/internal/storage/config"
+	configdb "github.com/Mooonsheen/dc/app/internal/storage/config"
 
 	"github.com/jackc/pgx/v4/pgxpool"
 )

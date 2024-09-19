@@ -1,4 +1,4 @@
-# lamoda_tech
+# dc
 
 ### _Junior test task_
 
@@ -17,15 +17,15 @@ sudo lsof -i :8000
 ```
 sudo kill -9 {PID}
 ```
-Если `8000` порт занят, его можно освободить схожим образом или изменить переменную `SERVER_PORT` в `.env` файле _(в корне директории lamoda_tech)_ на свободный.
+Если `8000` порт занят, его можно освободить схожим образом или изменить переменную `SERVER_PORT` в `.env` файле _(в корне директории dc)_ на свободный.
 
 После настройки портов _(если такова была необходима)_ можем запускать сервис.
 
 ### Запуск сервиса
 ```
-git clone https://github.com/Mooonsheen/lamoda_tech
+git clone https://github.com/Mooonsheen/dc
 
-cd lamoda_tech
+cd dc
 
 make up
 ```

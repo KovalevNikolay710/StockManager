@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	config "github.com/Mooonsheen/lamoda_tech/app/internal/server/config"
-	"github.com/Mooonsheen/lamoda_tech/app/internal/storage"
-	configdb "github.com/Mooonsheen/lamoda_tech/app/internal/storage/config"
-	"github.com/Mooonsheen/lamoda_tech/app/internal/storage/interfaces"
-	"github.com/Mooonsheen/lamoda_tech/app/internal/storage/postgresql"
+	config "github.com/Mooonsheen/dc/app/internal/server/config"
+	"github.com/Mooonsheen/dc/app/internal/storage"
+	configdb "github.com/Mooonsheen/dc/app/internal/storage/config"
+	"github.com/Mooonsheen/dc/app/internal/storage/interfaces"
+	"github.com/Mooonsheen/dc/app/internal/storage/postgresql"
 
 	"github.com/gin-gonic/gin"
 )
