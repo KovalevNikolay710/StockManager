@@ -3,7 +3,7 @@ package interfaces
 import (
 	"context"
 
-	. "github.com/Mooonsheen/dc/app/internal/models"
+	. "github.com/KovalevNikolay710/StockManager/app/internal/models"
 )
 
 type Storage interface {

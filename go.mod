@@ -1,4 +1,4 @@
-module github.com/Mooonsheen/dc
+module github.com/KovalevNikolay710/StockManager
 
 go 1.22.1
 
